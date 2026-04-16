@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ahmed",
+    "id": "201",
+    "email": "ahmed@gmail.com",
+    "role": "Manager",
+    "performance": "Excellent"
+  },
+  {
+    "name": "Zara",
+    "id": "202",
+    "email": "zara@gmail.com",
+    "role": "Developer",
+    "performance": "Good"
+  }
+]
